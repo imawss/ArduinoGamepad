@@ -1,1 +1,1 @@
-(./your-header-image-name.png)
+(./github-header-image.png)
