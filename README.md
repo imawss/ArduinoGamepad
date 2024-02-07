@@ -1,1 +1,1 @@
-![Header](./your-header-image-name.png)
+(./your-header-image-name.png)
